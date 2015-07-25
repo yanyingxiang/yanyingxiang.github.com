@@ -764,6 +764,11 @@ a.article-title:hover,
 #page-nav .space {
   color: #ddd;
 }
+#page-nav #image center,
+#page-nav .img-center {
+  display: block;
+  matgin: auto;
+}
 #footer {
   padding: 50px 0;
   text-align: center;
